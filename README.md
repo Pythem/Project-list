@@ -45,10 +45,10 @@ https://apps.apple.com/us/app/id1495280263
 
 https://apps.apple.com/us/app/id1509372657
 
-11.Sudoku Puzzly(not on appstore yet)
+11.Sudoku Puzzly(It's not in the AppStore yet)
 
 
-12.Match Puzzly(noton appstore yet)
+12.Match Puzzly(It's not in the AppStore yet)
 
 
 
